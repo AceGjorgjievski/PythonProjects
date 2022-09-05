@@ -1,0 +1,14 @@
+https://prnt.sc/2WOsN7ZkPm5-
+
+input:
+0.1
+300
+
+output:
+Se sluchuva overfitting
+Tochnost so trenirachko mnozhestvo: 1.0
+Tochnost so validacisko mnozhestvo: 0.46511627906976744
+
+
+other test cases:
+https://prnt.sc/tosRqrlwY6We

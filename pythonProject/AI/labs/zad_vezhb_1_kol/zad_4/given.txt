@@ -1,0 +1,14 @@
+
+
+https://prnt.sc/7wNm1NZ3JVWV
+
+
+input:
+3
+7
+
+output:
+['D1: Disk 3', 'D2: Disk 1', 'D2: Disk 1', 'D2: Disk 3', 'D2: Disk 1', 'L1: Disk 3', 'D1: Disk 2', 'D1: Disk 2', 'D2: Disk 2']
+
+other test cases:
+https://prnt.sc/aN_NgRmz5ftX

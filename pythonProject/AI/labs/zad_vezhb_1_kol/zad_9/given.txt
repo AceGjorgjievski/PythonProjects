@@ -1,0 +1,49 @@
+1. https://prnt.sc/OXmep1lh49oo
+2. https://prnt.sc/eS_kE3qPqDdV
+
+
+input:
+2,4
+1,3
+2,2
+3,1
+4,0
+
+output:
+['Pomesti kvadratche 1 levo', 'Pomesti kvadratche 1 levo']
+
+other test cases:
+2.
+in:
+2,4
+0,3
+2,1
+3,1
+4,0
+
+out:
+['Pomesti kvadratche 1 levo', 'Pomesti kvadratche 1 levo', 'Pomesti kvadratche 2 desno', 'Pomesti kvadratche 3 gore']
+
+3.
+in:
+0,4
+1,3
+2,2
+3,1
+4,0
+
+out:
+[]
+
+4.
+in:
+1,3
+0,4
+2,2
+3,0
+4,0
+out:
+['Pomesti kvadratche 1 gore', 'Pomesti kvadratche 1 levo', 'Pomesti kvadratche 2 dolu', 'Pomesti kvadratche 2 desno', 'Pomesti kvadratche 4 gore']
+
+
+https://prnt.sc/QrtUnrrXniyL

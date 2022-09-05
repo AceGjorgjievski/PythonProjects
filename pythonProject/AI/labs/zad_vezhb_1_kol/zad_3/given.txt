@@ -1,0 +1,21 @@
+1. https://prnt.sc/hgmT5C0ZR2w9
+2. https://prnt.sc/OgcxKMi5deRw
+3. https://prnt.sc/aeCTwO7qeYhn
+
+input:
+0
+0
+istok
+5
+2,6
+4,0
+6,5
+8,2
+8,3
+
+output:
+['ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiNazad', 'ProdolzhiPravo', 'SvrtiDesno', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiNazad', 'ProdolzhiPravo', 'SvrtiLevo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'SvrtiLevo', 'SvrtiDesno', 'SvrtiDesno', 'ProdolzhiPravo', 'SvrtiLevo', 'ProdolzhiPravo', 'SvrtiDesno']
+
+
+other test cases:
+https://prnt.sc/GgsSxyeVgG7f

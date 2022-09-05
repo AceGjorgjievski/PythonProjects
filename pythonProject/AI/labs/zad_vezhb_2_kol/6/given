@@ -1,0 +1,12 @@
+# https://prnt.sc/3KG6_ekWxxsh
+
+input:
+20
+output:
+Preciznost so trenirachkoto mnozhestvo: 0.9615384615384616
+Odziv so trenirachkoto mnozhestvo: 0.5067567567567568
+Preciznost so testirachkoto mnozhestvo: 1.0
+Odziv so testirachkoto mnozhestvo: 0.640625
+
+other test cases:
+https://prnt.sc/YTWZkxr70ruB

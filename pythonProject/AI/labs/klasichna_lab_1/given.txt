@@ -1,0 +1,32 @@
+
+zad 1 >>> https://prnt.sc/y6h5xZbDxFlR
+
+input:
+5
+6,9
+2,7
+9,5
+2,3
+4,3
+4
+4,6
+6,5
+3,3
+6,8
+
+output:
+['SvrtiLevo', 'ProdolzhiPravo', 'SvrtiDesno', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'SvrtiLevo', 'ProdolzhiPravo', 'SvrtiLevo', 'ProdolzhiPravo', 'SvrtiDesno', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'SvrtiLevo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'SvrtiLevo', 'ProdolzhiPravo', 'ProdolzhiPravo']
+
+
+
+zazd 2 >>> https://prnt.sc/9SyEtercfvVm
+
+
+input:
+2
+6,9
+2,7
+output:
+['SvrtiLevo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'ProdolzhiPravo', 'SvrtiLevo', 'ProdolzhiPravo']
+
+

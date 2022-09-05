@@ -1,0 +1,14 @@
+# https://prnt.sc/5yDRGfXBqoVe
+
+input:
+100
+output:
+Precision: 0.7777777777777778
+Recall: 0.625
+
+
+other test cases:
+hidden :/
+
+https://prnt.sc/sC2UsR5uYP7C
+

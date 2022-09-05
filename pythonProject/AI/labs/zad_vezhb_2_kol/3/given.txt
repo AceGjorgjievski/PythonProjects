@@ -1,0 +1,15 @@
+https://prnt.sc/F_ELCZoBCZG0
+
+input:
+50
+entropy
+output:
+
+Depth: 12
+Number of leaves: 125
+Accuracy: 0.7771345875542692
+Most important feature: 0
+Least important feature: 9
+
+other test cases:
+https://prnt.sc/AWDh6l3JzeTH

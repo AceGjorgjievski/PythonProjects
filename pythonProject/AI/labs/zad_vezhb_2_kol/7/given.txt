@@ -1,0 +1,11 @@
+# https://prnt.sc/JSUXGVrJuOwi
+
+input:
+10
+output:
+Accuracy: 0.6
+Precision: 0.0
+
+
+other test cases:
+https://prnt.sc/q-YrWIAjrIGi

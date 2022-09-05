@@ -1,0 +1,12 @@
+https://prnt.sc/tLSaFXQDYlJY
+
+input:
+7
+
+output:
+{1: (6, 6), 2: (5, 4), 3: (4, 2), 4: (3, 0), 5: (2, 5), 6: (1, 3), 7: (0, 1)}
+
+
+other test cases:
+https://prnt.sc/AgZkC0F5fKCQ
+

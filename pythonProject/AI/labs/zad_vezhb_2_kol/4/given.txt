@@ -1,0 +1,14 @@
+https://prnt.sc/rOzsc3s4z7Ud
+
+input:
+1
+10
+entropy
+10 21 32 50 40 10
+output:
+Accuracy: 0.7916666666666666
+Bream
+[0.6 0.  0.2 0.  0.1 0.1 0. ]
+
+other test cases:
+https://prnt.sc/mBHj7L1vKaBd

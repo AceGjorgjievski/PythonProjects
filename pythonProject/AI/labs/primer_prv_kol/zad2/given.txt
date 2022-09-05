@@ -1,0 +1,15 @@
+
+
+
+# https://prnt.sc/tDbdjqN63nFW
+
+in:
+1
+1
+1
+1
+
+out:
+{'ML_vezbi': 'Thu_14', 'ML_cas_1': 'Fri_15', 'BI_vezbi': 'Thu_11', 'AI_vezbi': 'Tue_13', 'AI_cas_1': 'Fri_12', 'BI_cas_1': 'Fri_10', 'R_cas_1': 'Wed_15'}
+
+
