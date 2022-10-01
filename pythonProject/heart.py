@@ -1,5 +1,7 @@
 from turtle import *
 
+#try it yourself ;")
+
 bgcolor("cyan")
 color("red")
 begin_fill()
