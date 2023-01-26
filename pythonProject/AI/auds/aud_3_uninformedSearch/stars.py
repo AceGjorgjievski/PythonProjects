@@ -171,5 +171,8 @@ if __name__ == "__main__":
     result = breadth_first_graph_search(stars)
     print(result.solution())
 
+    # for i in range(len(stars_pos)):
+    #     print(stars_pos.index(stars_pos[i]))
+
 
 
