@@ -45,6 +45,7 @@ if __name__ == '__main__':
 
     classifier.fit(train_x, train_y)
 
+
     print(f"Depth: {classifier.get_depth()}")
     print(f"Number of leaves: {classifier.get_n_leaves()}")
 

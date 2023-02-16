@@ -692,7 +692,7 @@ if __name__ == '__main__':
 
     tp,tn,fp,fn = 0,0,0,0
     for true, pred in zip(test_y, predictions):
-       if true == 1:
+       if true == '1':
           if pred == true:
               tp += 1
           else:

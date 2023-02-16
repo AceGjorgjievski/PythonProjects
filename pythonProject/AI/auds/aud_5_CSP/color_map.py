@@ -11,6 +11,7 @@ if __name__ == "__main__":
     domain = ["red", "green", "blue"]
 
     problem.addVariables(variables,domain)
+
     problem.addConstraint(lambda a,b: a!=b,("Q","NT"))
     problem.addConstraint(lambda a,b: a!=b,("Q","NSW"))
     problem.addConstraint(lambda a,b: a!=b,("WA","NT"))

@@ -82,9 +82,7 @@ if __name__ == '__main__':
     print(f"Accuracy: {accuracy}")
 
     entry = [el for el in input().split(" ")]
-
     encoded_entry = encoder.transform([entry])
-
     predicted_class = classifier.predict(encoded_entry)[0]
 
     print(predicted_class)
