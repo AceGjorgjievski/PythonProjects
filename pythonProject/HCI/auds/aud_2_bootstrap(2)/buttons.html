@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-
+GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+</head>
+<body>
+
+<div class="container">
+    <button type="button" class="btn btn-primary">Primary</button>
+    <button type="button" class="btn btn-danger">Danger</button>
+    <button type="button" class="btn btn-outline-danger">O - danger</button>
+    <button type="button" class="btn btn-info">Info</button>
+    <button type="button" class="btn btn-outline-info">O - Info</button>
+    <button type="button" class="btn btn-light">Light</button>
+    <button type="button" class="btn btn-outline-light">O - light</button>
+    <button type="button" class="btn btn-link">Link</button>
+</div>
+
+
+<div class="container">
+    <a href="#" class="btn btn-primary" role="link">Link</a>
+    <input type="submit" class="btn btn-primary">
+</div>
+
+
+<div class="container">
+    <button type="button" class="btn btn-primary btn-sm active">Small button</button>
+    <button type="button" class="btn btn-primary btn-md disabled">Medium button</button>
+    <button type="button" class="btn btn-primary btn-lg" aria-disabled="false">Large button</button>
+</div>
+
+<div class="container">
+    <div class="btn btn-group-vertical" role="group" aria-label="Basic Example" style="margin-left:100px">
+        <button type="button" class="btn btn-secondary">Left</button>
+        <button type="button" class="btn btn-secondary">Middle</button>
+        <button type="button" class="btn btn-secondary">Right</button>
+    </div>
+    <div class="btn btn-group-vertical" role="group" aria-label="Basic Example" style="margin-right:20px">
+        <button type="button" class="btn btn-secondary">Left 2</button>
+        <button type="button" class="btn btn-secondary">Middle 2</button>
+        <button type="button" class="btn btn-secondary">Right 2</button>
+    </div>
+</div>
+
+<div class="container">
+    <div class="btn btn-group" role="group" aria-label="Button group with nested dropdown">
+        <button type="button" class="btn btn-secondary">1</button>
+        <button type="button" class="btn btn-secondary">2</button>
+
+
+    </div>
+
+
+    <div class="container mt-5">
+        <h2>Dropdown List Example</h2>
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle"
+                    type="button"
+                    id="dropdownMenuButton"
+                    data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                Select an item
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" href="#">Item 1</a>
+                <a class="dropdown-item" href="#">Item 2</a>
+                <a class="dropdown-item" href="#">Item 3</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="dropdown">
+        <button class="dropdown-toggle" data-toggle="dropdown">click</button>
+        <div class="dropdown-menu">
+            <a href="#" class="dropdown-item">1</a>
+            <a href="#" class="dropdown-item">1</a>
+            <a href="#" class="dropdown-item">1</a>
+            <div class="dropdown-divider"></div>
+            <a href="#" class="dropdown-item">2</a>
+        </div>
+    </div>
+</div>
+
+
+<!-- Include jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+<!-- Include Popper.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+
+<!-- Include Bootstrap 4 JS -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+</body>
+</html>
