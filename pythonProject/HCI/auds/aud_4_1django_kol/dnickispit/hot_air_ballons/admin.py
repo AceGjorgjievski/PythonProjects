@@ -20,7 +20,7 @@ class FlightAdmin(admin.ModelAdmin):
     exclude = ("user",)
 
     def save_model(self, request, obj, form, change):
-        obj_user = request.user
+        obj.user = request.user
         return super().save_model(request, obj, form, change)
 
     def has_change_permission(self, request, obj=None):

@@ -17,7 +17,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from pythonProject.HCI.auds.aud_4_1django_kol.dnickispit.hot_air_ballons import views
+from hot_air_ballons import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
