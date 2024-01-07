@@ -1,0 +1,20 @@
+{% extends "base_generic.html" %}
+{% block content %}
+<h1>Hello World!</h1>
+<h2>Books</h2>
+    <div id="cards">
+	{% for book in books %}
+		<div class="card" style="width: 18rem;">
+  		 {% if book.cover_image %}
+          <img src="{{ MEDIA_URL }}{{ book.cover_image.url }}" class="card-img-top" alt="...">
+        {% endif %}
+  		<div class="card-body">
+    		<h5 class="card-title">{{book.title}}</h5>
+    		<p class="card-text">{{book.content}}</p>
+    		<a href="{% url 'detail' isbn=book.isbn %}" class="btn btn-primary">Click for more details</a>
+  		</div>
+		</div>
+	{% endfor %}
+</div>
+    {{ Date }}
+{% endblock %}
