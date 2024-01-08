@@ -44,10 +44,11 @@ if __name__ == '__main__':
     save_intervals_2 = [500, 1000, 2500, 5000]
 
     # choose what to train and what to test :)
+
     # train_and_save_ppo_model(env, model, A2C_path, save_intervals)
     # train_and_save_a2c_model(env, model, A2C_path, save_intervals)
 
-    test_ppo_model(env, PPO_path, save_intervals[-1])
+    # test_ppo_model(env, PPO_path, save_intervals[-1])
     # test_a2c_model(env, PPO_path, save_intervals[-1])
 
     env.close()
