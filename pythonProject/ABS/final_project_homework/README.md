@@ -53,8 +53,8 @@ In the ``Traning`` folder will be saved the Logs & Saved models.
 the ``Saved models`` package, after the testing process it will be
 created another log file in the ``Logs`` package.
 
-### External Links that helped me in the process of development int the RL
+### External Links that helped me in the process of development in the RL
 
-- Helpful Links & Tutorials [here]().
-- Errors that I have encountered [here]().
+- Helpful Links & Tutorials [here](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/help_links).
+- Errors that I have encountered [here](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/handled_erros.txt).
 
