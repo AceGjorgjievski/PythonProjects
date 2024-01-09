@@ -5,8 +5,8 @@
 ### Presentation & Research Paper
 My [Research Paper](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/SnakeGameRLResearch.pdf).
 </br>
-My [Presentation](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/Snake game 2d – reinforcement learning.pptx).
-
+My Presentation as [PowerPoint File](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/Snake%20game%202d%20–%20reinforcement%20learning.pptx).
+or [PDF File]()
 Technologies used: 
 - [Pygame](https://www.pygame.org/docs/)
 - [Gym](https://www.gymlibrary.dev/index.html) or [Gymnasium](https://gymnasium.farama.org/index.html)
