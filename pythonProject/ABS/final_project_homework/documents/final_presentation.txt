@@ -1,7 +1,7 @@
 	=== Slide 2: ===
 AI is spread almost everywhere and todays life can't be imagined without at least a
 small portion of it. We can see it how robots do some stuff, in the medicine about drugs
-discoveries/predictions disseases, finance, agriculture (watering plants) etc..
+discoveries/predictions diseases, finance, agriculture (watering plants) etc..
 
 
 AI is multidisciplinary field that encompasses various approaches and techniques.
