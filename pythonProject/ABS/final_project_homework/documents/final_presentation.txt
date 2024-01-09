@@ -1,0 +1,79 @@
+	=== Slide 2: ===
+AI is spread almost everywhere and todays life can't be imagined without at least a
+small portion of it. We can see it how robots do some stuff, in the medicine about drugs
+discoveries/predictions disseases, finance, agriculture (watering plants) etc..
+
+
+AI is multidisciplinary field that encompasses various approaches and techniques.
+There are areas in the AI which we have agent involved and which we don't.
+
+One of the areas that don't have agents are:
+speech, patter recognition, data mining (Data mining is often used for 
+knowledge discovery and information extraction.)
+
+On the other hand, the ones that have agents involved are:
+Computer vision, NLP, RL, and many more will stick to this topic
+
+	=== Slide 3: ===
+The RL is one of the areas in AI which the main concept is to learn the
+agent how to interact with the environment. It consists set of principles,
+algorithms and applications. What are principles, algorithms and applications here?
+
+Principles:
+Agent, Environment, and Interaction:
+
+Agent: The entity making decisions and taking actions.
+Environment: The external system with which the agent interacts.
+Interaction: The agent takes actions in the environment, 
+which responds by transitioning to new states and providing feedback in the form of rewards.
+
+State and Action Spaces:
+State: Represents the current situation or configuration in which the agent finds itself.
+Action: The decision or move made by the agent.
+State Space: The set of all possible states.
+Action Space: The set of all possible actions.
+
+Policy:
+A policy defines the agent's strategy, specifying the mapping from states to actions. 
+It represents the behavioral strategy the agent employs to make decisions.
+
+Reward Signal:
+The agent receives feedback from the environment in the form of rewards 
+or penalties based on its actions. The goal of the agent is to learn a 
+policy that maximizes the cumulative reward over time.
+----------------------------------------------------------------------------------------
+Algorithms:
+Q - Learning
+DQN
+Actor Critic
+PPO
+-----------------------------------------------------------------------------------------
+Application:
+Games,
+Robotics,
+Finance,
+Healthcare
+
+[describing the photo]
+
+	== Slide 5 ==
+Rewards and penalties
+Wasting time: punishment is calculated based on the number of 
+timesteps passed since the last apple has been eaten.
+	== Slide 6 ==
+PPO(A2C + TRPO) & A2C with its metrics after training
+TRPO introduces a controlled way of updating the policy, 
+preventing large deviations to maintain stability during the learning process.
+
+rollout statistics:
+time statistics:
+training statistics:
+
+	==Slide 5==
+Episode Reward Mean (PPO & A2C)
+Explanation: An episode's reward is the cumulative sum of rewards 
+obtained by the agent throughout the episode. ep_rew_mean gives 
+the average cumulative reward the agent receives in a single episode 
+during the rollout. It provides insights into the agent's performance in 
+terms of achieving its goals and maximizing rewards during the initial 
+interactions with the environment.
