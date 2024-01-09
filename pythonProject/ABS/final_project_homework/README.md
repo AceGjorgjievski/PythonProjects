@@ -2,6 +2,11 @@
 
 ### Snake game 2D - Reinforcement Learning 
 
+### Presentation & Research Paper
+My [Research Paper](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/SnakeGameRLResearch.pdf).
+</br>
+My [Presentation](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/Snake game 2d – reinforcement learning.pptx).
+
 Technologies used: 
 - [Pygame](https://www.pygame.org/docs/)
 - [Gym](https://www.gymlibrary.dev/index.html) or [Gymnasium](https://gymnasium.farama.org/index.html)
@@ -25,11 +30,6 @@ Minimal requirements:
 - ``Gymnasium: 0.29.1``
 - ``OpenAI Gym: 0.26.2``
 
-### Presentation & Research Paper
-My [Research Paper]().
-</br>
-My [Presentation]().
-
 ### How To Run
 First of all, in order to run this snake game 2D with
 reinforcement learning, you need to navigate to ``main.py`` 
@@ -52,6 +52,15 @@ In the ``Traning`` folder will be saved the Logs & Saved models.
 **Note**: When you only want to test already trained models from
 the ``Saved models`` package, after the testing process it will be
 created another log file in the ``Logs`` package.
+
+### Visualize the final metrics of the training
+
+In order to visualize the final metrics of the training, you will need
+``tensorboard``. Navigate to the `Training` directory with the command prompt
+(e.g. `cd C:\Users\Ace\PycharmProjects\pythonProject\ABS\homework\Training>`)
+and run the following command `tensorboard --logdir Logs`. 
+If you get an output like [this](https://prnt.sc/KN1CZPfhomWe), then navigate to
+[http://localhost:6006/](http://localhost:6006/) and you are good to go `:)`.
 
 ### External Links that helped me in the process of development in the RL
 
