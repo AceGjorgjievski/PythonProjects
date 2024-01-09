@@ -6,7 +6,7 @@
 My [Research Paper](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/SnakeGameRLResearch.pdf).
 </br>
 My Presentation as [PowerPoint File](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/Snake%20game%202d%20–%20reinforcement%20learning.pptx)
-or [PDF File](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/Snake%20game%202d%20–%20reinforcement%20learning.pdf)
+or [PDF File](https://github.com/AceGjorgjievski/PythonProjects/blob/master/pythonProject/ABS/final_project_homework/documents/Snake%20game%202d%20–%20reinforcement%20learning.pdf).
 
 Technologies used: 
 - [Pygame](https://www.pygame.org/docs/)
